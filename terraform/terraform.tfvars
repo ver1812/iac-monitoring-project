@@ -1,0 +1,5 @@
+credentials_file = "credentials.json"
+project_id       = "project-b0a4f020-2ec6-4fb1-a15"
+region           = "us-central1"
+zone             = "us-central1-a"
+ssh_public_key  = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC1CZa4qOJFNvvrGDdg/aV667P5pheMNF9SQmHA9l3aHNm0pS4bLPSoKSLgLSqcPZdRN7kyee0KngQ8CjqgBDk4x36Sj1LELRTLqWM7Jp8bjWk/wqR2LswCl5NvQ819pmeEmRolmEH4wL6OR/IiUZNpnnqKifdI0/1XqNsHFSqJMwq9aA8JN1ZA1vsOnqHKpp44YV9YzkTUhDUTQOblW15DFWTVWF0peDD7RT3nZh/1Gn1FrdKieMyepV8IWpjeN1nc1UOYUqIzBL106cvF1WnIxojzhLNMlGZNQGxGTsHzx/xMw4WzC3w42iHk3+JH8TMOEViilFh+gxUICLAy8Gagpk+/CdqHL+8QDKi+821MNph59l0ZoK24V5XxC+z6CM2vPVwL4pmeb6UaaG0ObprhOBqnvtKoGGnsMo14SeaRBpMWpSBoP6aXoiSMfzDi6UvFR/PQs7z9JrQxn6t+elrNN9iUTnS0YxeldiXb8eaRIi00Sjkz1gjd0GZZAADwv5eI+Q/YwnOjd5qgGGxceyuCOpJlm4JBobw674YCdmRM9ojcKHIKCBkRxzZr1H0B3Y3jtXLTtuKc3bTHtQStbYsenLdi00NfH+84He3YJGPJV/P5R4N2x7xcMWgenAAK6ZvLQ2Y5ZdwxprVXrutPP2cyl0FXGVGIG0Xoyz1LLkZblw== v.sadvilkar1@universityofgalway.ie"
