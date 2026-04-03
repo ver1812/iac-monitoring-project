@@ -8,7 +8,11 @@ import jwt
 from datetime import datetime, timedelta
 from werkzeug.utils import secure_filename
 from datetime import datetime
+import newrelic.agent
+newrelic.agent.initialize()
 
+import logging
+logging.basicConfig(level=logging.INFO)
 import os
 
 
@@ -112,7 +116,7 @@ def is_course_teacher(course_id: int, teacher_id: int) -> bool:
 
 @app.route('/', methods=['GET'])
 def first():
-
+    logging.info("Root endpoint called")
     return jsonify({'message': 'Backend flask app running'}), 200
 
 
